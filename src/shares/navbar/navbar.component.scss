@@ -1,0 +1,8 @@
+.navbar {
+    .navbar-nav {
+        z-index: 999;
+        .navbar-brand:hover {
+            color: var(--color-pick);
+        }
+    }
+}

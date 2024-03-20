@@ -1,0 +1,12 @@
+.section {
+    margin: 0 0 4rem 0;
+
+    .text-name {
+        font-size: var(--text-1);
+        font-weight: 500;
+        .dancing {
+            font-size: var(--text-4);
+            font-family: var(--font-family-dancing);
+        }
+    }
+}
